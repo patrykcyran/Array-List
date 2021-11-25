@@ -1,0 +1,3 @@
+﻿  AiSD-lab3.cpp
+E:\Studia\Projekty\Visual Studio projects\Algorytmy i struktury danych - lab\AiSD-lab3\AiSD-lab3.cpp(248,1): warning C4305: "return": obcięcie z "int" do "bool"
+  AiSD-lab3.vcxproj -> E:\Studia\Projekty\Visual Studio projects\Algorytmy i struktury danych - lab\AiSD-lab3\Debug\AiSD-lab3.exe
